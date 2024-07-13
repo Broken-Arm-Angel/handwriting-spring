@@ -1,4 +1,4 @@
-package com.dpeng.springframework.beans.factory.support.config;
+package com.dpeng.springframework.beans.factory.config;
 
 /**
  * 单例注册表

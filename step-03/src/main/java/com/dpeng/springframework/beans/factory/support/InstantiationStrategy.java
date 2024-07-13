@@ -1,7 +1,7 @@
 package com.dpeng.springframework.beans.factory.support;
 
 import com.dpeng.springframework.beans.BeansException;
-import com.dpeng.springframework.beans.factory.support.config.BeanDefinition;
+import com.dpeng.springframework.beans.factory.config.BeanDefinition;
 
 import java.lang.reflect.Constructor;
 

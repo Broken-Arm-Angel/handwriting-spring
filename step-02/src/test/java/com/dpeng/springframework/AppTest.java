@@ -3,7 +3,7 @@ package com.dpeng.springframework;
 
 import com.dpeng.springframework.bean.User;
 import com.dpeng.springframework.beans.factory.support.DefaultListableBeanFactory;
-import com.dpeng.springframework.beans.factory.support.config.BeanDefinition;
+import com.dpeng.springframework.beans.factory.config.BeanDefinition;
 import junit.framework.TestCase;
 
 /**

@@ -1,4 +1,4 @@
-package com.dpeng.springframework.beans.factory.support.config;
+package com.dpeng.springframework.beans.factory.config;
 
 /**
  * Bean 定义信息

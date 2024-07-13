@@ -1,7 +1,7 @@
 package com.dpeng.springframework.beans.factory.support;
 
 
-import com.dpeng.springframework.beans.factory.support.config.SingletonBeanRegistry;
+import com.dpeng.springframework.beans.factory.config.SingletonBeanRegistry;
 
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

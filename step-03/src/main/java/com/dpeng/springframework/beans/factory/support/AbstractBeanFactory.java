@@ -3,7 +3,7 @@ package com.dpeng.springframework.beans.factory.support;
 
 import com.dpeng.springframework.beans.BeansException;
 import com.dpeng.springframework.beans.factory.BeanFactory;
-import com.dpeng.springframework.beans.factory.support.config.BeanDefinition;
+import com.dpeng.springframework.beans.factory.config.BeanDefinition;
 
 /**
  * 抽象 Bean 工厂
