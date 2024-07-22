@@ -11,11 +11,7 @@ import com.dpeng.springframework.beans.factory.config.*;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Method;
 
-/**
- * @author KeyCheung
- * @date 2023/05/18
- * @desc
- */
+
 public abstract class AbstractAutowireCapableBeanFactory extends AbstractBeanFactory implements AutowireCapableBeanFactory {
 
     private InstantiationStrategy instantiationStrategy = new SimpleInstantiationStrategy();

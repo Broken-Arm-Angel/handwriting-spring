@@ -1,10 +1,6 @@
 package com.dpeng.springframework.beans.factory.config;
 
-/**
- * @author KeyCheung
- * @date 2023/05/27
- * @desc
- */
+
 public class BeanReference {
 
     private final String beanName;

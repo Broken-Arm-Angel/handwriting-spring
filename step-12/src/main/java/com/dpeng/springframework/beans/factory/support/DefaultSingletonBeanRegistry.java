@@ -8,11 +8,7 @@ import java.util.Map;
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public class DefaultSingletonBeanRegistry implements SingletonBeanRegistry {
 
     /**

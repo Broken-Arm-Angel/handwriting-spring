@@ -7,11 +7,7 @@ import com.dpeng.springframework.beans.factory.config.BeanDefinition;
 
 import java.lang.reflect.Method;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public class DisposableBeanAdapter implements DisposableBean {
 
     private final Object bean;

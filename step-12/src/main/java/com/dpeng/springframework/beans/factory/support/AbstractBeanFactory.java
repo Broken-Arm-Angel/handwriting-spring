@@ -10,11 +10,7 @@ import com.dpeng.springframework.util.ClassUtils;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author KeyCheung
- * @date 2023/05/17
- * @desc
- */
+
 public abstract class AbstractBeanFactory extends FactoryBeanRegistrySupport implements ConfigurableBeanFactory {
 
     private ClassLoader beanClassLoader = ClassUtils.getDefaultClassLoader();

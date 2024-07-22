@@ -4,11 +4,7 @@ import com.dpeng.springframework.context.ApplicationEvent;
 import com.dpeng.springframework.context.ApplicationListener;
 import com.dpeng.springframework.beans.factory.BeanFactory;
 
-/**
- * @author KeyCheung
- * @date 2023/05/30
- * @desc
- */
+
 public class SimpleApplicationEventMulticaster extends AbstractApplicationEventMulticaster {
 
     public SimpleApplicationEventMulticaster(BeanFactory beanFactory) {

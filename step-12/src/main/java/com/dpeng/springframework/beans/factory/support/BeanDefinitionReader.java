@@ -4,11 +4,7 @@ import com.dpeng.springframework.beans.BeansException;
 import com.dpeng.springframework.core.io.Resource;
 import com.dpeng.springframework.core.io.ResourceLoader;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public interface BeanDefinitionReader {
 
     BeanDefinitionRegistry getRegistry();

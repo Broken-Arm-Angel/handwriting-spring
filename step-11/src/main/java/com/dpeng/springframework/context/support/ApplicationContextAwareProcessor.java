@@ -5,11 +5,7 @@ import com.dpeng.springframework.context.ApplicationContext;
 import com.dpeng.springframework.context.ApplicationContextAware;
 import com.dpeng.springframework.beans.BeansException;
 
-/**
- * @author KeyCheung
- * @date 2023/05/21
- * @desc
- */
+
 public class ApplicationContextAwareProcessor implements BeanPostProcessor {
 
     private final ApplicationContext applicationContext;

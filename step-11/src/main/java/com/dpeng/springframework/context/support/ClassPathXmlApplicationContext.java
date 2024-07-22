@@ -2,11 +2,7 @@ package com.dpeng.springframework.context.support;
 
 import com.dpeng.springframework.beans.BeansException;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public class ClassPathXmlApplicationContext extends AbstractXmlApplicationContext {
 
     private String[] configLocations;

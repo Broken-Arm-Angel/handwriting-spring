@@ -16,11 +16,7 @@ import com.dpeng.springframework.context.event.SimpleApplicationEventMulticaster
 import java.util.Collection;
 import java.util.Map;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public abstract class AbstractApplicationContext extends DefaultResourceLoader implements ConfigurableApplicationContext {
 
     public static final String APPLICATION_EVENT_MULTICASTER_BEAN_NAME = "applicationEventMulticaster";

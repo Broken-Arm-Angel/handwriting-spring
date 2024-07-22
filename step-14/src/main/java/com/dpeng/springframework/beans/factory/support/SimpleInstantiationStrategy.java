@@ -6,11 +6,7 @@ import com.dpeng.springframework.beans.factory.config.BeanDefinition;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
-/**
- * @author KeyCheung
- * @date 2023/05/17
- * @desc
- */
+
 public class SimpleInstantiationStrategy implements InstantiationStrategy {
 
     @Override

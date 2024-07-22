@@ -4,11 +4,7 @@ import com.dpeng.springframework.beans.factory.support.DefaultListableBeanFactor
 import com.dpeng.springframework.beans.BeansException;
 import com.dpeng.springframework.beans.factory.ConfigurableListableBeanFactory;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public abstract class AbstractRefreshableApplicationContext extends AbstractApplicationContext {
 
     private DefaultListableBeanFactory beanFactory;

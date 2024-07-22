@@ -2,11 +2,7 @@ package com.dpeng.springframework.beans.factory.config;
 
 import com.dpeng.springframework.beans.PropertyValues;
 
-/**
- * @author KeyCheung
- * @date 2023/05/20
- * @desc
- */
+
 public class BeanDefinition {
 
     String SCOPE_SINGLETON = ConfigurableBeanFactory.SCOPE_SINGLETON;
