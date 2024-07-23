@@ -6,11 +6,7 @@ import com.dpeng.springframework.beans.factory.FactoryBean;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author KeyCheung
- * @date 2023/05/27
- * @desc
- */
+
 public abstract class FactoryBeanRegistrySupport extends DefaultSingletonBeanRegistry {
 
     /**
