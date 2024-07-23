@@ -6,10 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * @author KeyCheung
- * @date 2023/05/12
- */
+
 public class ClassPathResource implements Resource {
 
     private final String path;

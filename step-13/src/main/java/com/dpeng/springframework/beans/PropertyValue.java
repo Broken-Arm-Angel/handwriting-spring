@@ -1,10 +1,6 @@
 package com.dpeng.springframework.beans;
 
-/**
- * @author KeyCheung
- * @date 2023/05/12
- * @desc Bean 的属性信息
- */
+
 public class PropertyValue {
 
     private final String name;

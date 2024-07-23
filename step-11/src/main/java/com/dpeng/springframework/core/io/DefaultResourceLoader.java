@@ -5,10 +5,7 @@ import cn.hutool.core.lang.Assert;
 import java.net.MalformedURLException;
 import java.net.URL;
 
-/**
- * @author KeyCheung
- * @date 2023/05/12
- */
+
 public class DefaultResourceLoader implements ResourceLoader {
 
     @Override

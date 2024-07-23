@@ -3,10 +3,7 @@ package com.dpeng.springframework.beans;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author KeyCheung
- * @date 2023/05/12
- */
+
 public class PropertyValues {
 
     private final List<PropertyValue> propertyValueList = new ArrayList<>();

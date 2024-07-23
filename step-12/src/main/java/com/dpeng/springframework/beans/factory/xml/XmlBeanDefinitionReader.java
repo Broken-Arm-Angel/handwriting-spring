@@ -17,10 +17,7 @@ import org.w3c.dom.NodeList;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * @author KeyCheung
- * @date 2023/05/11
- */
+
 public class XmlBeanDefinitionReader extends AbstractBeanDefinitionReader {
 
     public XmlBeanDefinitionReader(BeanDefinitionRegistry registry) {

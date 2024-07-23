@@ -1,9 +1,6 @@
 package com.dpeng.springframework.beans;
 
-/**
- * @author KeyCheung
- * @date 2023/05/11
- */
+
 public class BeansException extends RuntimeException {
 
     public BeansException(String message) {

@@ -5,10 +5,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.io.InputStream;
 
-/**
- * @author KeyCheung
- * @date 2023/05/12
- */
+
 public class FileSystemResource implements Resource {
 
     private final File file;

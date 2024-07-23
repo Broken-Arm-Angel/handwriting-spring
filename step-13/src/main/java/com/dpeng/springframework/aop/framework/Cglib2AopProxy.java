@@ -7,11 +7,7 @@ import net.sf.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
 
-/**
- * @author KeyCheung
- * @date 2023/06/03
- * @desc
- */
+
 public class Cglib2AopProxy implements AopProxy {
 
     private final AdvisedSupport advised;

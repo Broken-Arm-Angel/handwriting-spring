@@ -2,10 +2,7 @@ package com.dpeng.springframework.beans.factory;
 
 import com.dpeng.springframework.beans.BeansException;
 
-/**
- * @author KeyCheung
- * @date 2023/05/11
- */
+
 public interface BeanFactory {
 
     Object getBean(String name) throws BeansException;

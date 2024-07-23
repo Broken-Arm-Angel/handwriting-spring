@@ -3,10 +3,7 @@ package com.dpeng.springframework.beans.factory.support;
 import com.dpeng.springframework.core.io.DefaultResourceLoader;
 import com.dpeng.springframework.core.io.ResourceLoader;
 
-/**
- * @author KeyCheung
- * @date 2023/05/11
- */
+
 public abstract class AbstractBeanDefinitionReader implements BeanDefinitionReader {
 
     private final BeanDefinitionRegistry registry;

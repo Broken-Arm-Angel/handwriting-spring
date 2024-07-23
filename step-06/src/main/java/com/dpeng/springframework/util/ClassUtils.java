@@ -1,9 +1,6 @@
 package com.dpeng.springframework.util;
 
-/**
- * @author KeyCheung
- * @date 2023/05/11
- */
+
 public class ClassUtils {
 
     public static ClassLoader getDefaultClassLoader() {
