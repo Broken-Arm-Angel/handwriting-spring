@@ -1,0 +1,9 @@
+package com.dpeng.springframework.aop;
+
+
+public interface Pointcut {
+
+    ClassFilter getClassFilter();
+
+    MethodMatcher getMethodMatcher();
+}
